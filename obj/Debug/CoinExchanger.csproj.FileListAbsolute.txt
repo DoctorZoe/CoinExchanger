@@ -1,0 +1,8 @@
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2202 - Object Oriented Program\CoinExchanger\bin\Debug\CoinExchanger.exe.config
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2202 - Object Oriented Program\CoinExchanger\bin\Debug\CoinExchanger.exe
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2202 - Object Oriented Program\CoinExchanger\bin\Debug\CoinExchanger.pdb
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2202 - Object Oriented Program\CoinExchanger\obj\Debug\CoinExchanger.csproj.AssemblyReference.cache
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2202 - Object Oriented Program\CoinExchanger\obj\Debug\CoinExchanger.csproj.SuggestedBindingRedirects.cache
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2202 - Object Oriented Program\CoinExchanger\obj\Debug\CoinExchanger.csproj.CoreCompileInputs.cache
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2202 - Object Oriented Program\CoinExchanger\obj\Debug\CoinExchanger.exe
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2202 - Object Oriented Program\CoinExchanger\obj\Debug\CoinExchanger.pdb
